@@ -73,7 +73,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={handleLiveChatClick}
+              onClick={() => window.open('https://t.me/Bluepaysupport_team')}
             >
               Start Live Chat
             </Button>
