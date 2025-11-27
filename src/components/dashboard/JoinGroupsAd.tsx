@@ -30,7 +30,7 @@ const JoinGroupsAd = () => {
   };
 
   const handleJoinWhatsApp = () => {
-    window.location.href = "https://chat.whatsapp.com/DG2VUIH69g2HMs8d4OwAq";
+    window.location.href = "https://chat.whatsapp.com/DG2VUIH69g2HMs8d4OwzAq";
     handleDismiss();
   };
 
