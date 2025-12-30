@@ -50,7 +50,7 @@ const ChatBot = () => {
     }
     
     if (message.includes('support') || message.includes('help') || message.includes('contact')) {
-      return 'You can reach our support team via:\n• Email: bluepaycustomerservice1@gmail.com\n• Telegram: @Bluepaysupport_team\n• WhatsApp: +2349035542395\n• Live chat through our Telegram bot';
+      return 'You can reach our support team via:\n• Email: bluepaycustomerservice1@gmail.com\n• Telegram: @Bluepaysupport_team\n• WhatsApp: +2347086242596\n• Live chat through our Telegram bot';
     }
     
     if (message.includes('registration') || message.includes('account') || message.includes('sign up')) {
